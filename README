@@ -1,0 +1,5 @@
+Compile:
+g++ -std=c++11 shopping.cpp -o shopping
+
+Run:
+./shopping
